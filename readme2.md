@@ -16,3 +16,6 @@ Este tipo de documento es útil para crear rápidamente manuscritos. Fácilmente
 
 
 # Nuevo cambio en REadme2
+
+
+- nuevo commit en newalter
